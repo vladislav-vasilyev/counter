@@ -1,1 +1,1 @@
-Counter with Rollup package
+Simple counter
